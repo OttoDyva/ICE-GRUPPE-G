@@ -1,2 +1,4 @@
-package model;public class Nutrition {
+package model;
+
+public class Nutrition {
 }

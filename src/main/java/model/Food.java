@@ -1,2 +1,4 @@
-package model;public class Food {
+package model;
+
+public class Food {
 }

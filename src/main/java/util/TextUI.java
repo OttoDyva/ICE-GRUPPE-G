@@ -1,2 +1,4 @@
-package util;public class TextUI {
+package util;
+
+public class TextUI {
 }

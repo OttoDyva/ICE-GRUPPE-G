@@ -4,13 +4,40 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4a741785-90cd-48fc-8b7b-ccf590e52af2" name="Changes" comment="" />
+    <list default="true" id="4a741785-90cd-48fc-8b7b-ccf590e52af2" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/doc/DomæneModel.puml" beforeDir="false" afterPath="$PROJECT_DIR$/doc/DomæneModel.puml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/KlasseDiagram.puml" beforeDir="false" afterPath="$PROJECT_DIR$/doc/KlasseDiagram.puml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/BroScience.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/BroScience.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/model/BMI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/model/BMI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/model/Exercises.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/model/Exercises.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/model/Food.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/model/Food.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/model/Nutrition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/model/Nutrition.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/model/TrainingProgram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/model/TrainingProgram.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/model/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/model/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/util/DatabaseIO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/util/DatabaseIO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/util/Datavalidator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/util/Datavalidator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/util/TextUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/util/TextUI.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="UML Sequence" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
@@ -24,10 +51,18 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "DefaultPlantUmlFileTemplate": "UML Sequence",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "Otto-ICE",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -39,11 +74,22 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1702027628400</updated>
-      <workItem from="1702027630329" duration="4000" />
+      <workItem from="1702027630329" duration="638000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
