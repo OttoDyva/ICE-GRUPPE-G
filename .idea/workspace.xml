@@ -4,21 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4a741785-90cd-48fc-8b7b-ccf590e52af2" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/doc/DomæneModel.puml" beforeDir="false" afterPath="$PROJECT_DIR$/doc/DomæneModel.puml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/KlasseDiagram.puml" beforeDir="false" afterPath="$PROJECT_DIR$/doc/KlasseDiagram.puml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/BroScience.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/BroScience.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/model/BMI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/model/BMI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/model/Exercises.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/model/Exercises.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/model/Food.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/model/Food.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/model/Nutrition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/model/Nutrition.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/model/TrainingProgram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/model/TrainingProgram.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/model/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/model/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/util/DatabaseIO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/util/DatabaseIO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/util/Datavalidator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/util/Datavalidator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/util/TextUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/util/TextUI.java" afterDir="false" />
-    </list>
+    <list default="true" id="4a741785-90cd-48fc-8b7b-ccf590e52af2" name="Changes" comment="BingBong" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,7 +21,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="main" />
+        <entry key="$PROJECT_DIR$" value="Otto-ICE" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -55,7 +41,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "Otto-ICE",
+    "git-widget-placeholder": "master",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -74,8 +60,17 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1702027628400</updated>
-      <workItem from="1702027630329" duration="638000" />
+      <workItem from="1702027630329" duration="1256000" />
     </task>
+    <task id="LOCAL-00001" summary="BingBong">
+      <option name="closed" value="true" />
+      <created>1702028456988</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1702028456988</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -91,5 +86,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="BingBong" />
+    <option name="LAST_COMMIT_MESSAGE" value="BingBong" />
   </component>
 </project>
