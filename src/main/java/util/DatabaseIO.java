@@ -1,2 +1,4 @@
-package util;public class DatabaseIO {
+package util;
+
+public class DatabaseIO {
 }

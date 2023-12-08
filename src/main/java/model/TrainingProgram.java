@@ -1,2 +1,4 @@
-package model;public class TrainingProgram {
+package model;
+
+public class TrainingProgram {
 }
