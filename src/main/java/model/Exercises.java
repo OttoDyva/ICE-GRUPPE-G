@@ -1,2 +1,3 @@
-package model;public class Exercises {
+package model;
+public class Exercises {
 }

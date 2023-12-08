@@ -1,2 +1,4 @@
-package model;public class BMI {
+package model;
+public class BMI {
+
 }

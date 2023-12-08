@@ -1,2 +1,3 @@
-package util;public class Datavalidator {
+package util;
+public class Datavalidator {
 }
