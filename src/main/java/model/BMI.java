@@ -1,4 +1,4 @@
 package model;
-public class BMI {
 
+public class BMI {
 }
